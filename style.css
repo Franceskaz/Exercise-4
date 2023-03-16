@@ -1,0 +1,16 @@
+.title {
+	font-size: 85px;
+	line-height: 50px;
+	font-family: 'Nanum Pen Script', cursive;
+	color: white;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.title2 {
+	font-size: 30px;
+	line-height: 30px;
+	font-family: 'Fira Sans Condensed', sans-serif;
+	color: black;
+	margin-top: 10px;
+	}
